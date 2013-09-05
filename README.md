@@ -1,0 +1,4 @@
+Ideas
+=====
+
+all around code
